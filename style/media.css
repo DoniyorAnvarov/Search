@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+    .products {
+        flex-direction: column;
+    }
+    .product {
+        margin-bottom: 50px;
+    }
+}
